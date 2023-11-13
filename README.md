@@ -2,6 +2,8 @@
 
 YAML parser for go that does not require schema
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/hypnguyen1209/goyml.svg)](https://pkg.go.dev/github.com/hypnguyen1209/goyml)
+
 ### install
 
 ```bash
