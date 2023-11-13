@@ -2,6 +2,14 @@
 
 YAML parser for go that does not require schema
 
+### install
+
+```bash
+go get github.com/hypnguyen1209/goyml
+```
+
+### usage
+
 ```go
 package main
 
