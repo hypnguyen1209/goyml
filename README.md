@@ -33,3 +33,6 @@ func main() {
 	}
 }
 ```
+
+# Credit
+- Thanks to [@jmoiron/jsonq](https://github.com/jmoiron/jsonq)
